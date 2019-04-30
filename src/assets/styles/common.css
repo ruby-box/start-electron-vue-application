@@ -1,0 +1,11 @@
+::-webkit-scrollbar { display: block; }
+
+::-webkit-scrollbar {
+  background-color: #fff;
+  width: .8em
+}
+
+::-webkit-scrollbar-thumb:window-inactive,
+::-webkit-scrollbar-thumb {
+  background:  lightgray
+}
